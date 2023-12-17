@@ -3,7 +3,7 @@
 ## :man_student: About me 
 I am Bletsas Apostolos, i aspire to be a Front End Developer and i am currently persuing my Bachelors in Computer Science.
 
-Outside of the techworld, i am a passionate individual with a deep love for music and a fervor for exploring new places.
+Outside of the techworld, i am a passionate individual with a deep love for music, TV shows, Gaming, and traveling the world to explore new places, different cultures and meet new people.
 
 ## 🚀 Skills
 
