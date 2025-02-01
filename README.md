@@ -19,8 +19,6 @@ Outside of the techworld, i am a passionate individual with a deep love for musi
 ## ✉️ Contact me 
 Feel free to reach out to me at:
 
-[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bletsas__/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:apostolisbletsas14@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/apostolis-bletsas-3041932a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/apostolis-bletsas)
